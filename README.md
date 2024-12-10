@@ -1,4 +1,6 @@
-Following files are raspi camera module set up for Raspi Zero 2 W with Camera Pi Module B.
+This project is part of the research conducted by ReLUT Research Lab for Urban Transport(https://github.com/ReLUT).
+
+This repository contains the code and resources for building a Digital Twin Camera System to enhance urban mobility through car detection and tracking. The system is designed for Raspberry Pi Zero 2 W using the Pi Camera Module B, optimized for low-cost solutions.
 
 Example code included.
 - Auto error reboot (Board System)
